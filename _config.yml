@@ -10,7 +10,7 @@ baseurl: '/wiki'
 # The language of the webpage › http://www.lingoes.net/en/translator/langcode.htm
 # If it has the same name as one of the files in folder `_data/locales`, the layout language will also be changed,
 # otherwise, the layout language will use the default value of 'en'.
-lang: pt-br
+lang: pt-BR
 
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
@@ -30,15 +30,15 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://na18k.github.io/wiki/'
 
 github:
-  username: Na18k             # change to your github username
+  username: Thex1223             # change to your github username
 
 twitter:
-  username: na18_k            # change to your twitter username
+  username: Thex1223            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Kainan H.
+  name: Thex1223
   email: kainanhenriq18@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link

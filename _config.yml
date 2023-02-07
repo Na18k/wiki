@@ -21,7 +21,7 @@ timezone: America/Sao_Paulo
 
 title: Wiki                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Wiki e Documentação   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Wiki para documentação de projetos.
@@ -38,7 +38,7 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
+  name: Kainan H.
   email: kainanhenriq18@hotmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
@@ -78,10 +78,10 @@ theme_mode: dark  # [light|dark]
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: 'https://avatars.githubusercontent.com/u/86901978?s=400&u=c8466a80cf4fc8b6f24cae297e3de6fc7fd5e883&v=4'
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
+avatar: 'https://avatars.githubusercontent.com/u/86901978?s=400&u=c8466a80cf4fc8b6f24cae297e3de6fc7fd5e883&v=4'
 
 # boolean type, the global switch for ToC in posts.
 toc: true

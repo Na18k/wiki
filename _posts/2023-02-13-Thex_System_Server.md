@@ -12,7 +12,7 @@ tags: [config, thex]
 **Thex System Server**, é um sistema que hospeda um pasta diretamente do seu computador para WEB, utilizando Python nativo e o modulo `http.server`, disponibilizando um pasta para que seja acessada pelo IP da maquina host.
 
 ## Executando
-Para executar o Thex System Server, basta baixar o .ZIP disponibilizado Para executar o Thex System Server, basta baixar o .ZIP disponibilizado [AQUI](https://github.com/Thex1223/ThexSystemServer/raw/main/dist/Thex_System_Server.zip)..
+Para executar o Thex System Server, basta baixar o .ZIP disponibilizado [aqui](https://github.com/Thex1223/ThexSystemServer/raw/main/dist/Thex_System_Server.zip).
 
 Basta executar o `TSS.exe`, ele abri-rá um tela de console.
 

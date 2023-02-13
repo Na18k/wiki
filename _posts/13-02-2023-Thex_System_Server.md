@@ -1,7 +1,7 @@
 ---
 title: Thex System Server
 author: na18k
-date: 2023-02-13 14:09:00 +0300
+date: 2023-02-13 15:32:00 +0300
 categories: [Na18k, Wiki, Thex]
 tags: [config, thex]
 ---

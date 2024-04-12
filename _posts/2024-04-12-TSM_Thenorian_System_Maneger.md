@@ -1,5 +1,5 @@
 ---
-title: Thex System Server
+title: Thenorian System Maneger
 author: na18k
 date: 2024-04-12 10:46:00 +0300
 categories: [Na18k, Thenorian, Thex, TSM]
